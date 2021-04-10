@@ -1,6 +1,6 @@
-## [Deep Reinforcement Learning Course in Pytorch]
+## Deep Reinforcement Learning Course in Pytorch
 
-Please note that this repository is an unofficial Pytroch (1.7+) implementation of the original [Deep Reinforcement Learning Course](https://simoninithomas.github.io/deep-rl-course/)
+Unofficial Pytroch (1.7+) implementation of the original [Deep Reinforcement Learning Course](https://simoninithomas.github.io/deep-rl-course/)
 
 ### <a href="https://simoninithomas.github.io/Deep_reinforcement_learning_Course/">Syllabus</a><br>
 #### Chapter 1: Introduction to Deeep Reinforcement Learning 
